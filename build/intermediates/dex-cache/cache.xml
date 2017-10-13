@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\Test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2704730bb0e1aea5ff287d8e1612a0d6cc783a8c">
+        <dex dex="D:\AndroidProject\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6c6086f3f86e9212503256d983923ab2ad8ac304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohammad Ghasemi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="D:\AndroidProject\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_0b6181a19bff9910169f535e6db60250693a807a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\Test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidProject\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_76950b0c9ed6de6b4e7b0f7416a05cfc4de48e26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohammad Ghasemi\.android\build-cache\1223203c74594efe3f05588bf0188460c72c881a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1333d3b28bae9c08b1e2eb4f25d0797fe3182c3e">
+        <dex dex="D:\AndroidProject\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d13b64c7ea036ac88b9c87ced1b1a0d09b1c50e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohammad Ghasemi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="D:\AndroidProject\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_fe55f0fec242992b476ec3eac5bdadb3b2927128\classes.dex" />
+    </item>
+
+</items>
